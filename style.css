@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#bubble_button{
+    text-align: center;
+    align-self: center;
+    border-color: aliceblue;
+    box-shadow:  6px 5px 20px rgb(57, 100, 112);
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    background-color: aquamarine;
+}
